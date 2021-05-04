@@ -1,0 +1,2 @@
+# Redux
+Estrutura base redux.
